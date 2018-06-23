@@ -1,2 +1,3 @@
 # git-tut
-git tutorial from edureka 
+this is for tutorial purpose
+git tutorial from edureka!
